@@ -4,5 +4,5 @@
 
 <img src="https://github.com/deviacode/draw-canvas/blob/master/drawing.png" width="400" height="auto"/>
 
-Míralo en acción: <a href="https://deviacode.github.io/draw-canvas/" alt="demo">Demo</a>
+Míralo en acción: <a href="https://deviacode.github.io/draw-canvas/" alt="demo" target="_blank">Demo</a>
 
